@@ -1,5 +1,5 @@
 import pytest
-from task1.main import sum_two
+from task1.solution import sum_two
 
 
 def test_sum_two_valid_types():

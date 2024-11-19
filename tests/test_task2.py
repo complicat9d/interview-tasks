@@ -1,6 +1,6 @@
 from unittest import mock
 from unittest.mock import MagicMock
-from task2.main import get_next_page, write_to_file
+from task2.solution import get_next_page, write_to_file
 
 
 def test_get_next_page_with_next_page():

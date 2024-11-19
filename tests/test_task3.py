@@ -1,6 +1,6 @@
 import pytest
 
-from task3.main import appearance
+from task3.solution import appearance
 
 test_data = [
     (
